@@ -1,0 +1,7 @@
+@media (min-width: 200px) and (max-width: 460px){
+    section#iconsRedesSociais {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
