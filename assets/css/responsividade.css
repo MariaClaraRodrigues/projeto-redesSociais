@@ -3,6 +3,17 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 20px;
+    }
+    section#imagemTelefone {
+        margin-top: 30px;
+        width: 250px;
+        height: 500px;
+    }
+    iframe#tela {
+        position: relative;
+        top: 66px;
+        left: 19px;
+        width: 214px;
+        height: 376px;
     }
 }
